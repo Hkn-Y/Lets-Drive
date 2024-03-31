@@ -1,2 +1,0 @@
-# business
-New Business WebSite
