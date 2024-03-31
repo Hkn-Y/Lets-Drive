@@ -10,11 +10,11 @@ body {
 h1 {
   font-size: 2.4rem !important;
 }
-#title .container-fluid {
+#titel .container-fluid {
   padding: 0 5% 7%;
   background-color: #ff0026; /* !important; */
 }
-#title .navbar {
+#titel .navbar {
   padding-top: 0;
 }
 .nav-img {
@@ -369,10 +369,10 @@ h3 {
   /* div.phones {
     width: calc(40% + 5vw) !important;
   } */
-  #title {
+  #titel {
     max-height: 1040px;
   }
-  #title > div > div {
+  #titel > div > div {
     margin-right: 30px;
   }
 }
@@ -392,7 +392,7 @@ h3 {
   /* div.row {
     margin-right: 7px;     |
   }                 SAME \|/     */
-  #title > div > div {
+  #titel > div > div {
     margin-right: 7px;
   }
   .tinttext {
@@ -424,7 +424,7 @@ h3 {
     /* right: 0; */
     /* padding: 0 40%; */
   }
-  #title {
+  #titel {
     max-height: 1400px;
   }
 }
@@ -481,7 +481,7 @@ h3 {
     /* right: 2rem; */
     /* transform: rotate(10deg); */
   }
-  #title {
+  #titel {
     max-height: 1400px;
   }
   h1 {
@@ -531,7 +531,7 @@ h3 {
   /* #s9p {
     width: 230px;
   } */
-  #title {
+  #titel {
     max-height: 1100px !important;
   }
   .cta-t {
